@@ -1,4 +1,4 @@
-# SAR-SHIP-Dataset
+# SAR SHIP Datasets
 
 ## AIR-SAR-SHIP-DATASET
 High-resolution SAR ship objection detection dataset-1.0 (AIR-SARShip-1.0) releases 31 images for its original edition. The resolution of images includes 1m and 3m, imaging mode covers both spotlight and strip, and polarization is single polarization. The scene type includes ports, islands and reefs, and seas of different grades. The target contains nearly one thousand ships with more than ten categories such as transport vessels, oil tankers and fishing boats.
